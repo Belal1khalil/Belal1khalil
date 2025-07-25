@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://linkedin.com/in/belal khalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belal khalil" height="30" width="40" /></a>
-<a href="https://fb.com/belal khalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="belal khalil" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/belal khalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belal khalil" height="30" width="40" /></a>
+<a href="https://fb.com/belal khalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="belal khalil" height="30" width="40" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"/>
 <h3 align="left">Languages and Tools:</h3>
