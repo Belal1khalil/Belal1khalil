@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm Belal Khalil</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h2 align="center">
+  Welcome Belal Khalil's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-- 👨‍💻 All of my projects are available at [https://belal-portfolio-2.netlify.app/](https://belal-portfolio-2.netlify.app/)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer...;WE%20NEVER%20Stop%20LEARNING&font=Fira%20Code&center=true&width=490&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
-- 💬 Ask me about **my experience with JavaScript, ReactJS, or anything related to web development.**
-
-- 📫 How to reach me **belalessam1236@gmail.com**
-
-- ⚡ Fun fact **I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.**
+- 🏢 I'm a Front end Developer and CS Student.
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, ReactJS or anything related to web development.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 👨‍💻 Check out my contact links to see some of the projects I've worked on.
+- <p> MY Slogan is "Never stop learnnig & no pain no gain"</p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
