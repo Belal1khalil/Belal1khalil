@@ -15,7 +15,9 @@
 - 💬 Ask me about my experience with JavaScript, ReactJS or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my contact links to see some of the projects I've worked on.
-- <p> MY Slogan is "Never stop learnnig & no pain no gain"</p>
+- 👨‍💻 All of my projects are available at [https://belal-portfolio-2.netlify.app/](https://belal-portfolio-2.netlify.app/)
+- - <p> MY Slogan is "Never stop learnnig & no pain no gain"</p>
+ How to reach me **belalessam1236@gmail.com** 
 <br>
 
 <h3 align="left">Connect with me:</h3>
