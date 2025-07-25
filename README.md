@@ -4,7 +4,10 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer...;WE%20NEVER%20Stop%20LEARNING&font=Fira%20Code&center=true&width=490&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Front-End%20Developer...;Crafting%20Responsive%20Web%20Experiences;Building%20Modern%20UI%20with%20React%20%26%20Tailwind;Always%20Learning%20and%20Improving!&font=Fira%20Code&center=true&width=600&height=45&color=00bfff&vCenter=true&size=22">
+</a>
+
 </p>
 
 - 🏢 I'm a Front end Developer and CS Student.
